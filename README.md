@@ -22,7 +22,7 @@ Abstract: This repository contains the slides,  a tutorial, and some resources a
 
 ### S1 - Presentation  ###
 
-You can find the presentation slides from this link. You are very welcome to give feedback and comments. 
+You can find the presentation slides from this [link](CSUN_trainingDay2020_SOLID.pdf). You are very welcome to give feedback and comments. 
 
 ***
 
