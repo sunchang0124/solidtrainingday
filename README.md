@@ -49,7 +49,7 @@ The step to enter SOLID world is to create a valid SOLID account (as always :)) 
 
 - ** Solid servers offer Linked Data-aware storage, aimed at *machines*, so that this data can be used in applications. Node Solid Server goes a step further, and offers *human-readable* access to data in pods. It does this using [*mashlib*](https://github.com/linkeddata/mashlib), a client-side data mashup library that is compatible with Solid. 
 - Let's start with completing your profile. Click right top profile button -> Show your profile. Or you can go to your WebID URL directly e.g., http://chang.inrupt.net/profile/card#me
-- Try to click these icons: <img src="Images/img1.png" alt="Screenshot 2020-11-25 at 14.21.53" style="zoom:50%;" />
+- Try to click these icons: <img src="Images/img1.png" alt="Screenshot 2020-11-25 at 14.21.53" style="zoom:20%;" />
   - Profile and Person: A profile viewer, and editor for basic information
   - Friends: A friends editor.
   - XML Source: A raw Turtle-based editor.
@@ -60,18 +60,18 @@ The step to enter SOLID world is to create a valid SOLID account (as always :)) 
     - Power user
     - Developer
   - Manage your trusted applications
-    - Give access permission to other people/applications<img src="Images/img2.png" alt="Screenshot 2020-11-25 at 14.33.40" style="zoom:50%;" />
+    - Give access permission to other people/applications<img src="Images/img2.png" alt="Screenshot 2020-11-25 at 14.33.40" style="zoom:20%;" />
   - Delete your account
 - Explore the storage (folders) 
   - Go to your pod homepage (https://chang.inrupt.net)
-  - You see a list of folders <img src="/Users/changsun/Library/Application Support/typora-user-images/Screenshot 2020-11-25 at 14.37.06.png" alt="Screenshot 2020-11-25 at 14.37.06" style="zoom:50%;" />
-  - Extend any folder, then have a look what these icons are used for.<img src="/Users/changsun/Documents/Screenshot 2020-11-25 at 14.37.52.png" alt="Screenshot 2020-11-25 at 14.37.52" style="zoom:50%;" />
+  - You see a list of folders <img src="Images/img3.png" alt="Screenshot 2020-11-25 at 14.37.06" style="zoom:20%;" />
+  - Extend any folder, then have a look what these icons are used for.<img src="/Images/img4.png" alt="Screenshot 2020-11-25 at 14.37.52" style="zoom:20%;" />
 
 ***
 
 ### S2 - Check the access control of different folders ###
 
-- <img src="/Users/changsun/Library/Application Support/typora-user-images/Screenshot 2020-11-25 at 14.41.14.png" alt="Screenshot 2020-11-25 at 14.41.14" style="zoom:50%;" />
+- <img src="Images/img5.png" alt="Screenshot 2020-11-25 at 14.41.14" style="zoom:20%;" />
 - These permissions are handled using `<filename>.acl` (access control list) files, which follow the [WAC specification](http://solid.github.io/web-access-control-spec/). In summary, WAC allows agents (referred by WebID) to be linked to certain [modes of access](http://solid.github.io/web-access-control-spec/#modes-of-access). At the time of writing, WAC supports the following modes:
   - Read: HTTP `GET` and `HEAD` requests.
   - Write: HTTP `PUT`, `POST`, `PATCH` and `DELETE` requests.
@@ -83,7 +83,7 @@ The step to enter SOLID world is to create a valid SOLID account (as always :)) 
 ### S2 - Create a new file and edit existing files in Public folder and private folder ###
 
 - The green "**+**" is obviously a button to create a new file :D 
-- ![Screenshot 2020-11-25 at 14.44.39](/Users/changsun/Library/Application Support/typora-user-images/Screenshot 2020-11-25 at 14.44.39.png)
+- <img src="Images/img5.png" alt="Screenshot 2020-11-25 at 14.41.14" style="zoom:20%;" />
 - So far, you can create:
   - Tracker
   - Address book
@@ -97,8 +97,8 @@ The step to enter SOLID world is to create a valid SOLID account (as always :)) 
 
 ### S2 - Try the different access control of the file and folder ###
 
-- Go to a file -> Click the sharing icon <img src="/Users/changsun/Library/Application Support/typora-user-images/Screenshot 2020-11-25 at 14.51.15.png" alt="Screenshot 2020-11-25 at 14.51.15" style="zoom:50%;" />
-- You can give Person, Group, Everyone, Loggin person, Software agent, Web App.<img src="/Users/changsun/Library/Application Support/typora-user-images/Screenshot 2020-11-25 at 14.52.00.png" alt="Screenshot 2020-11-25 at 14.52.00" style="zoom:50%;" />
+- Go to a file -> Click the sharing icon <img src="Images/img6.png" alt="Screenshot 2020-11-25 at 14.41.14" style="zoom:20%;" />
+- You can give Person, Group, Everyone, Loggin person, Software agent, Web App.<img src="Images/img7.png" alt="Screenshot 2020-11-25 at 14.52.00" style="zoom:50%;" />
 - Try it by yourself ;)
 
 ***
