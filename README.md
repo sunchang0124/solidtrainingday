@@ -30,7 +30,7 @@ You can find the presentation slides from this link. You are very welcome to giv
 
 The step to enter SOLID world is to create a valid SOLID account (as always :)) which contains your **data pod** and your unique **WebID**. **Pod providers** are the places where you can create a SOLID account. The pod providers can be any party who host a server where your data pod is "physically" living. 
 
-- Check [here][https://solidproject.org//users/get-a-pod] to find which public pod providers are available, look at who is hosting the pods, and where your data is acutually located. Then choose your favorite pod provider for now. 
+- Check [here](https://solidproject.org//users/get-a-pod) to find which public pod providers are available, look at who is hosting the pods, and where your data is acutually located. Then choose your favorite pod provider for now. 
 
 - Go to one of the pod provider, click "Register", fill the form. 
 
@@ -49,7 +49,7 @@ The step to enter SOLID world is to create a valid SOLID account (as always :)) 
 
 - ** Solid servers offer Linked Data-aware storage, aimed at *machines*, so that this data can be used in applications. Node Solid Server goes a step further, and offers *human-readable* access to data in pods. It does this using [*mashlib*](https://github.com/linkeddata/mashlib), a client-side data mashup library that is compatible with Solid. 
 - Let's start with completing your profile. Click right top profile button -> Show your profile. Or you can go to your WebID URL directly e.g., http://chang.inrupt.net/profile/card#me
-- Try to click these icons: <img src="/Users/changsun/Library/Application Support/typora-user-images/Screenshot 2020-11-25 at 14.21.53.png" alt="Screenshot 2020-11-25 at 14.21.53" style="zoom:50%;" />
+- Try to click these icons: <img src="Images/img1.png" alt="Screenshot 2020-11-25 at 14.21.53" style="zoom:50%;" />
   - Profile and Person: A profile viewer, and editor for basic information
   - Friends: A friends editor.
   - XML Source: A raw Turtle-based editor.
@@ -60,7 +60,7 @@ The step to enter SOLID world is to create a valid SOLID account (as always :)) 
     - Power user
     - Developer
   - Manage your trusted applications
-    - Give access permission to other people/applications<img src="/Users/changsun/Documents/Screenshot 2020-11-25 at 14.33.40.png" alt="Screenshot 2020-11-25 at 14.33.40" style="zoom:50%;" />
+    - Give access permission to other people/applications<img src="Images/img2.png" alt="Screenshot 2020-11-25 at 14.33.40" style="zoom:50%;" />
   - Delete your account
 - Explore the storage (folders) 
   - Go to your pod homepage (https://chang.inrupt.net)
