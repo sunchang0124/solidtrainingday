@@ -60,7 +60,7 @@ The step to enter SOLID world is to create a valid SOLID account (as always :)) 
     - Power user
     - Developer
   - Manage your trusted applications
-    - Give access permission to other people/applications<img src="Images/img2.png" alt="Screenshot 2020-11-25 at 14.33.40" style="zoom:20%;" />
+    - Give access permission to other people/applications
   - Delete your account
 - Explore the storage (folders) 
   - Go to your pod homepage (https://chang.inrupt.net)
@@ -71,7 +71,7 @@ The step to enter SOLID world is to create a valid SOLID account (as always :)) 
 
 ### S2 - Check the access control of different folders ###
 
-- <img src="Images/img5.png" alt="Screenshot 2020-11-25 at 14.41.14" style="zoom:20%;" />
+- <img src="Images/img4.png" alt="Screenshot 2020-11-25 at 14.41.14" style="zoom:20%;" />
 - These permissions are handled using `<filename>.acl` (access control list) files, which follow the [WAC specification](http://solid.github.io/web-access-control-spec/). In summary, WAC allows agents (referred by WebID) to be linked to certain [modes of access](http://solid.github.io/web-access-control-spec/#modes-of-access). At the time of writing, WAC supports the following modes:
   - Read: HTTP `GET` and `HEAD` requests.
   - Write: HTTP `PUT`, `POST`, `PATCH` and `DELETE` requests.
